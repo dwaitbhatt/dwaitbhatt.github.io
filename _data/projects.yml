@@ -1,0 +1,66 @@
+- title: "Multimodal Material Estimation"
+  url: "https://drive.google.com/file/d/1HPoiCHs8cC6Lv0LpQapk1WqN6CSvPWxX/view?usp=drive_link"
+  authors: |
+    <strong>Dwait Bhatt</strong>, Viraj Shah, Siddharth Satyam, Shashi Dhanasekar
+  description: "Estimating object material using audio-visual cues and techniques from multimodal LLMs."
+  image: "/images/material_estimation.png"
+  image_title: "Multimodal Material Estimation"
+
+- title: "Do Your Friends Sell You Out To Big Tech?"
+  url: "https://drive.google.com/file/d/1fRViDZLm9FBmUW4-cTarnQ-xlqa30KVG/view?usp=drive_link"
+  authors: |
+    Aayushmaan Jain, <strong>Dwait Bhatt</strong>
+  description: "Exploring how well a new buyer's purchase preferences can be predicted using social network information."
+  image: "/images/social_recommendation_2.png"
+  image_title: "Image credit: Tang, J., Hu, X. & Liu, H. Social recommendation: a review. Soc. Netw. Anal. Min. 3, 1113-1133 (2013). https://doi.org/10.1007/s13278-013-0141-9"
+
+- title: "Musical Accompaniment Generation"
+  url: "https://drive.google.com/file/d/1iXinEMAPsnDvRbuMi840i9hsOCqpIXaP/view?usp=drive_link"
+  authors: |
+    <strong>Dwait Bhatt</strong>, Vrutik Shah, Aakarsh Gupta
+  description: "Generating all background musical elements to complement a given vocal track and create a full song."
+  image: "/images/accompaniment_generation.png"
+  image_title: "Image credit: DALL-E 3"
+
+- title: "Locally-Aware Neural RGBD Surface Reconstruction"
+  url: "https://drive.google.com/file/d/1ZaBgC2OJKz-2pXNU4S_qFOT6ox-26f0z/view?usp=drive_link"
+  authors: |
+    <strong>Dwait Bhatt</strong>, Sumangala Patki
+  description: "Capturing local features from a convolutional occupancy network to enhance NeRF based surface reconstruction."
+  image: "/images/local_nerf.png"
+  video_presentation: "https://drive.google.com/file/d/1mIrb0F-sRibgCRsSypyPeo0CdJPFo_Ya/view?usp=drive_link"
+
+- title: "Curiosity in Robot Learning"
+  url: "https://drive.google.com/file/d/1hfD9ljfgmy-A_d8arCGSgqo4G6MKg1ZJ/view?usp=sharing"
+  authors: |
+    <strong>Dwait Bhatt</strong>,
+    <a href="https://saksham.live/">Saksham Jindal</a>
+  description: "Introducing curiosity-based exploration via Random Network Distillation to solve robot manipulation tasks."
+  image: "/images/curiosity.png"
+  image_title: "Image credit: DALL-E 3"
+  hover_video: "/images/curiosity.mp4"
+
+- title: "Visual-Inertial SLAM with Extended Kalman Filter"
+  url: "https://drive.google.com/file/d/18IuX-pC_N4ega2-yWNCFjfLn1AVLwHzI/view?usp=drive_link"
+  authors: |
+    <strong>Dwait Bhatt</strong>
+  description: "3D landmark mapping and localization with EKF SLAM using IMU and stereo camera observations."
+  image: "/images/EKF_VI_SLAM.png"
+  hover_video: "/images/EKF_VI_SLAM.mp4"
+
+- title: "Particle Filter SLAM"
+  url: "https://drive.google.com/file/d/1tf7nUb9j9vD5_EjtftYEnatPFwwYvDNK/view?usp=drive_link"
+  authors: |
+    <strong>Dwait Bhatt</strong>
+  description: "Simultaneous Localization and Mapping using IMU and Lidar data. Estimated trajectory is further used to recreate a texture map of the floor from RGBD images."
+  image: "/images/particle_filter.png"
+  hover_video: "/images/particle_filter.mp4"
+
+- title: "Optimal Stopping"
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSfPlFDb2IQdm9hN3Y3gXuIdv5ZC6CXqLcJGVhas7XSd-dPnEg/viewform"
+  authors: |
+    <strong>Dwait Bhatt</strong>, Deevanshu Goyal
+  description: "Pitting human intuition against an optimal solution to a variant of the Secretary Problem."
+  image: "/images/optimal_stopping.png"
+  game_link: "The Googol Game"
+

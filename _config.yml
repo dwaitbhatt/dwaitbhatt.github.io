@@ -1,0 +1,17 @@
+title: Dwait Bhatt
+description: ML PhD student at UC San Diego
+url: https://www.dwaitbhatt.com
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - JEKYLL_EXAMPLE

@@ -1,0 +1,20 @@
+- title: "Cross Morphology Robot Manipulation Skill Transfer"
+  url: "http://dwaitbhatt.com/robot-skill-transfer/"
+  authors: |
+    <a href="https://tianyudwang.github.io/">Tianyu Wang</a>,
+    <strong>Dwait Bhatt</strong>,
+    <a href="https://xiaolonw.github.io/">Xiaolong Wang</a>,
+    <a href="https://natanaso.github.io/">Nikolay Atanasov</a>
+  venue: "Under submission at RA-L"
+  description: "Learning latent manipulation policies that can be transferred to robots of different morphologies via cycle consistency and a latent dynamics constraint."
+  image: "/images/robot_skill_transfer.png"
+  image_title: "Image credit: DALL-E 3"
+
+- title: "Intelligent Boosting for Low Power-High Performance System"
+  url: "https://ieeexplore.ieee.org/abstract/document/9892932/"
+  authors: |
+    <strong>Dwait Bhatt</strong>, Naresh Kumar, Anuradha Kanukotla, Prateek Bansal, Syama Sudheesh, Jaeho Kim
+  venue: "IJCNN, 2022"
+  description: "Making apps launch faster while saving power on Android smartphones by predicting optimal duration for CPU boosting."
+  image: "/images/smartphone_perf.png"
+
