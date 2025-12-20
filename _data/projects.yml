@@ -1,0 +1,93 @@
+- title: "Headset-Free Robot Teleoperation"
+  authors: |
+    <strong>Dwait Bhatt</strong>
+  description: "Teleoperation of a robot arm using a VR controller."
+  image: "/files/teleop_gemini.png"
+  hover_video: "/files/teleop_mini.mp4"
+  links:
+    "Code": "https://github.com/dwaitbhatt/xarm_vr_teleop"
+    "Demonstration Video": "https://drive.google.com/file/d/1hH3r9S9kOjiyyFpFIQhSxEFaWVioSdz4/view?usp=sharing"
+
+- title: "Multimodal Material Estimation"
+  authors: |
+    <strong>Dwait Bhatt</strong>,&nbsp;
+    Viraj Shah,&nbsp;
+    Siddharth Satyam,&nbsp;
+    Shashi Dhanasekar
+  description: "Estimating object material using audio-visual cues and techniques from multimodal LLMs."
+  image: "/files/material_estimation_gemini.png"
+  image_title: "Generated using Nano Banana"
+  links:
+    "Technical Report": "https://drive.google.com/file/d/1HPoiCHs8cC6Lv0LpQapk1WqN6CSvPWxX/view?usp=drive_link"
+
+- title: "Do Your Friends Sell You Out To Big Tech?"
+  authors: |
+    Aayushmaan Jain,&nbsp;
+    <strong>Dwait Bhatt</strong>
+  description: "Exploring how well a new buyer's purchase preferences can be predicted using social network information."
+  image: "/files/social_recommendation_2.png"
+  image_title: "Image credit: Tang, J., Hu, X. & Liu, H. Social recommendation: a review. Soc. Netw. Anal. Min. 3, 1113-1133 (2013). https://doi.org/10.1007/s13278-013-0141-9"
+  links:
+    "Technical Report": "https://drive.google.com/file/d/1fRViDZLm9FBmUW4-cTarnQ-xlqa30KVG/view?usp=drive_link"
+
+- title: "Musical Accompaniment Generation"
+  authors: |
+    <strong>Dwait Bhatt</strong>,&nbsp;
+    Vrutik Shah,&nbsp;
+    Aakarsh Gupta
+  description: "Generating all background musical elements to complement a given vocal track and create a full song."
+  image: "/files/accompaniment_generation.png"
+  image_title: "Generated using DALL-E 3"
+  links:
+    "Technical Report": "https://drive.google.com/file/d/1iXinEMAPsnDvRbuMi840i9hsOCqpIXaP/view?usp=drive_link"
+    "Generated Audio Samples": "https://drive.google.com/drive/folders/1MNFhhGZiXKy8KIjDZzyeone4Mw4igVl6"
+
+- title: "Locally-Aware Neural RGBD Surface Reconstruction"
+  authors: |
+    <strong>Dwait Bhatt</strong>,&nbsp;
+    Sumangala Patki
+  description: "Capturing local features from a convolutional occupancy network to enhance NeRF based surface reconstruction."
+  image: "/files/local_nerf.png"
+  links:
+    "Technical Report": "https://drive.google.com/file/d/1ZaBgC2OJKz-2pXNU4S_qFOT6ox-26f0z/view?usp=drive_link"
+    "Video Presentation": "https://drive.google.com/file/d/1mIrb0F-sRibgCRsSypyPeo0CdJPFo_Ya/view?usp=drive_link"
+
+- title: "Curiosity in Robot Learning"
+  authors: |
+    <strong>Dwait Bhatt</strong>,&nbsp;
+    Saksham Jindal
+  description: "Introducing curiosity-based exploration via Random Network Distillation to solve robot manipulation tasks."
+  image: "/files/curiosity.png"
+  image_title: "Generated using DALL-E 3"
+  hover_video: "/files/curiosity.mp4"
+  links:
+    "Technical Report": "https://drive.google.com/file/d/1hfD9ljfgmy-A_d8arCGSgqo4G6MKg1ZJ/view?usp=sharing"
+
+- title: "Visual-Inertial SLAM with Extended Kalman Filter"
+  authors: |
+    <strong>Dwait Bhatt</strong>
+  description: "3D landmark mapping and localization with EKF SLAM using IMU and stereo camera observations."
+  image: "/files/EKF_VI_SLAM.png"
+  hover_video: "/files/EKF_VI_SLAM.mp4"
+  links:
+    "Technical Report": "https://drive.google.com/file/d/18IuX-pC_N4ega2-yWNCFjfLn1AVLwHzI/view?usp=drive_link"
+
+- title: "Particle Filter SLAM"
+  authors: |
+    <strong>Dwait Bhatt</strong>
+  description: "Simultaneous Localization and Mapping using IMU and Lidar data. Estimated trajectory is further used to recreate a texture map of the floor from RGBD images."
+  image: "/files/particle_filter.png"
+  hover_video: "/files/particle_filter.mp4"
+  links:
+    "Technical Report": "https://drive.google.com/file/d/1tf7nUb9j9vD5_EjtftYEnatPFwwYvDNK/view?usp=drive_link"
+
+
+- title: "Optimal Stopping"
+  authors: |
+    <strong>Dwait Bhatt</strong>,&nbsp;
+    Deevanshu Goyal
+  description: "Pitting human intuition against an optimal solution to a variant of the Secretary Problem."
+  image: "/files/optimal_stopping.png"
+  links:
+    "The Googol Game": "https://docs.google.com/forms/d/e/1FAIpQLSfPlFDb2IQdm9hN3Y3gXuIdv5ZC6CXqLcJGVhas7XSd-dPnEg/viewform"
+    "Informal Report": "https://drive.google.com/file/d/11TS7Wczb1DlqNrRUkMDBJkxOx4GPlh7m/view?usp=sharing"

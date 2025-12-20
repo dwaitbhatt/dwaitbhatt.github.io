@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="{{ site.author | default: 'Dwait Bhatt' }}">
+    <meta property="og:title" content="{{ page.title | default: site.title }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:image" content="{{ site.url }}/files/DwaitBhatt.jpg">
+    <meta property="og:url" content="{{ site.url }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="apple-touch-icon" href="{{ '/files/favicon/apple-touch-icon.png' | relative_url }}">
+    <link rel="icon" type="image/x-icon" href="{{ '/files/favicon/favicon.ico' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/stylesheet.css' | relative_url }}">
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SWMF3JW5PJ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-SWMF3JW5PJ');
+    </script>
+    
+    <script>
+        function scrollToContact() {
+            var div = document.getElementById("contact");
+            div.scrollIntoView({behavior: "smooth", block: "start"});
+        }
+    </script>
+</head>
+<body>
+    <div class="header noselect">
+        <div class="header-div content row">
+            <div class="header-profile-picture" style="background-image: url('{{ '/files/DwaitBhatt.jpg' | relative_url }}');"></div>
+            <div class="header-text">
+                <div class="header-name">
+                    <h1>Dwait Bhatt</h1>
+                </div>
+                <div class="header-subtitle">
+                    PhD Student, UC San Diego
+                </div>
+                <div class="header-links">
+                    <a class="btn" href="javascript:void(0);" onclick="scrollToContact()">Email</a> /
+                    <a class="btn" href="https://scholar.google.com/citations?user=dDW1ydgAAAAJ">Google Scholar</a> /
+                    <a class="btn" href="https://github.com/dwaitbhatt/">GitHub</a> /
+                    <a class="btn" href="https://www.linkedin.com/in/dwait-bhatt">LinkedIn</a> /
+                    <a class="btn" href="{{ '/files/Dwait_Bhatt_Resume_Research.pdf' | relative_url }}">Resume</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="content" style="padding-bottom: 64px;">
+        {{ content }}
+    </div>
+    
+    <div class="footer noselect">
+        <div class="footer-content">
+            &copy; {{ 'now' | date: "%Y" }} Dwait Bhatt. Powered by Jekyll. Design inspired by <a href="https://nicklashansen.com">Nicklas Hansen</a>.
+        </div>
+    </div>
+</body>
+</html>
