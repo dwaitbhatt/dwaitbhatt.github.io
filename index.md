@@ -13,7 +13,7 @@ layout: default
     </p>
     <p> 
         Recently, I have been working on efficient ways to leverage offline demonstrations with online RL, to make fast, real-world RL feasible.
-        Always open to talk about AI safety, robotics, and reinforcement learning. Feel free to reach out over mail!
+        Always happy to chat about robotics, RL, or interests <a href="/misc">beyond research</a> (like where to find the best live music in SD). Feel free to reach out over mail!
     </p>
 </div>
 
