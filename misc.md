@@ -329,7 +329,7 @@ title: Miscellaneous - Dwait Bhatt
     </p>
     
     <div class="misc-section" style="margin-top: 20px; display: flex; justify-content: center;">
-        <iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/playlist/4APb20wyXIZv9pDqviM4q9?utm_source=generator&theme=0" width="60%" height="600" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>    
+        <iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/playlist/4APb20wyXIZv9pDqviM4q9?utm_source=generator&theme=0" width="90%" height="600" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>    
     </div>
 </div>
 
