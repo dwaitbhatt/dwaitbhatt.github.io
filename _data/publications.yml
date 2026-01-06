@@ -10,7 +10,25 @@
   hover_video: "/files/rainbow_figure_video.mp4"
   highlight: false
   links:
-    Project Page: "https://dwaitbhatt.com/Rainbow-DemoRL/"
+    Website: "https://dwaitbhatt.com/Rainbow-DemoRL/"
+
+- title: "Seeing the Bigger Picture: 3D Latent Mapping for Mobile Manipulation Policy Learning"
+  url: https://existentialrobotics.org/sbp_page/
+  authors: |
+    Sunghwan Kim,&nbsp;
+    Woojeh Chung,&nbsp;
+    Zhirui Dai,&nbsp;
+    <strong>Dwait Bhatt</strong>,&nbsp;
+    Arth Shukla,&nbsp;
+    Hao Su,&nbsp;
+    Yulun Tian,&nbsp;
+    Nikolay Atanasov
+  venue: "RSS 2025 Workshop on Learned Robot Representations (Best paper nomination)"
+  description: "Improving spatio-temporal reasoning and memory via 3D latent mapping for mobile manipulation and long-horizon tabletop manipulation."
+  hover_video: "/files/sbp.mp4"
+  links:
+    Website: "https://existentialrobotics.org/sbp_page/"
+    Paper: "https://arxiv.org/abs/2510.03885"
 
 - title: "Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation"
   url: https://aalmuzairee.github.io/mad/
@@ -44,17 +62,17 @@
     Paper: "https://arxiv.org/abs/2406.01968"
     Code: "https://github.com/ExistentialRobotics/cross_embodiment_transfer"
 
-- title: "Intelligent Boosting for Low Power-High Performance System"
-  url: "https://ieeexplore.ieee.org/abstract/document/9892932/"
-  authors: |
-    <strong>Dwait Bhatt</strong>,&nbsp;
-    Naresh Kumar,&nbsp;
-    Anuradha Kanukotla,&nbsp;
-    Prateek Bansal,&nbsp;
-    Syama Sudheesh,&nbsp;
-    Jaeho Kim
-  venue: "IJCNN, 2022"
-  description: "Making apps launch faster while saving power on Android smartphones by predicting optimal duration for CPU boosting."
-  image: "/files/smartphone_perf.png"
-  links:
-    Paper: "https://ieeexplore.ieee.org/abstract/document/9892932/"
+# - title: "Intelligent Boosting for Low Power-High Performance System"
+#   url: "https://ieeexplore.ieee.org/abstract/document/9892932/"
+#   authors: |
+#     <strong>Dwait Bhatt</strong>,&nbsp;
+#     Naresh Kumar,&nbsp;
+#     Anuradha Kanukotla,&nbsp;
+#     Prateek Bansal,&nbsp;
+#     Syama Sudheesh,&nbsp;
+#     Jaeho Kim
+#   venue: "IJCNN, 2022"
+#   description: "Making apps launch faster while saving power on Android smartphones by predicting optimal duration for CPU boosting."
+#   image: "/files/smartphone_perf.png"
+#   links:
+#     Paper: "https://ieeexplore.ieee.org/abstract/document/9892932/"
